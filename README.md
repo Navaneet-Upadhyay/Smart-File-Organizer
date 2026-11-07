@@ -50,7 +50,7 @@ Smart_File_Organizer/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Navaneet-Upadhyay/Smart-File-Organizer.git
 ```
 
 2. Navigate into the project folder:
